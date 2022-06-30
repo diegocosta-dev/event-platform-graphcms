@@ -1,3 +1,5 @@
+See this app online (https://event-platform-graphcms.vercel.app/)
+
 This is a Event platform using React, GraphQL, Tailwind CSS and more.
 
 ## Getting Started
